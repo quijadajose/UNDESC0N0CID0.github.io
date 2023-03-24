@@ -1,0 +1,77 @@
+{
+    "title":{
+        "title":"Portfolio"
+    },
+    "startingpage": {
+        "spanish":"Spanish",
+        "english":"English",
+        "russian":"Russian",
+        "navbar1":"Home",
+        "navbar2":"About me",
+        "navbar3":"Certificates",
+        "navbar4":"Projects",
+        "navbar5":"Languages",
+        "navbar6":"Skills",
+        "skillsdescription":"The skills shown below are a self-description.",
+        "languages":"Languages and Tools:",
+        "shortdescription":"Hello everyone",
+        "mynameis":"My name is ",
+        "name":"José D. Quijada ",
+        "description":"and i am a young Systems Engineer, self-taught, creative and looking for challenges. Eager to use my whole knowledge in software development",
+        "github":"See my github",
+        "telegram":"Contact me at",
+        "title1":"Certificates obtained in Platzi",
+        "title1lvs":"Venezuelan sign language",
+        "descriptionlvs":"The LVS application seeks to teach Venezuelan sign language in a fun and fast way, emphasizing the expressions of the Nueva Esparta state.",
+        "title1medicom":"Medicom",
+        "descriptionmedicom":"Medicom is a simple application which allows you to optimize medical files in a health center",
+        "multiplatform":"Desktop Multi platform",
+        "descriptionmultiplatform":"The application was made in Java, so the application can be run on Linux, Windows and Mac.",
+        "security":"Password encryption with Bcrypt",
+        "descriptionsecurity":"The password encryption allows an attacker not to see the passwords stored in the database even if he manages to compromise the database.",
+        "sql":"Prepared Sentences",
+        "descriptionsql":"A prepared statement is a function that is used to execute the same (or similar) SQL statements repeatedly with high efficiency and in turn prevents SQL injection attacks.",
+        "seedetails":"Click here to see project details",
+        "backend":"It is the part or branch of application development in charge of making all the logic of a page work correctly.",
+        "frontend":"It is the part or branch of application development responsible for interacting with users by providing a better UX/UI experience."
+    },
+    "lvs": {
+        "description":"description",
+        "why":"Why this project?",
+        "descriptionwhy":"The idea of learning sign language has always been with me since childhood, because many classmates practiced it because they or their family members had speech and/or hearing impairments, and sign language caught my attention, but there were not many places where they taught it. When I started college I realized that with the knowledge I was about to learn I could do something to facilitate the education of Venezuelan sign language. But it was not until a subject assigned us the realization of an innovative system and without hesitation I thought about doing that project that I wanted to do for so long.",
+        "titletechnologies":"Technologies used:",
+        "titlecollaborators":"Collaborators:",
+        "collaborators":"In the section of the dictionary of words and phrases was facilitated by the educational unit of special education of the state of Nueva Esparta. My best friend Gabriela Marín was a great help with the drawings and colors. The icons used in the buttons of the lessons were made by the designers of the FlatIcon platform. And in the section of the creation of the database, creation of the views and coding of the system was in charge of my person.",
+        "colors":"Colors",
+        "colorpalette":"Color Palette",
+        "screen":"Screens of sistem",
+        "prototype":"non-final prototype screens "
+    },
+    "medicom": {
+        "censorship":"The following images were censored to keep users of the system anonymous.",
+        "login":"This screen allows you to log in to the system, register a new user and display information to assist with login.",
+        "titlelogin":"Login",
+        "userregister":"The registration module allows you to add new doctors to the system.",
+        "titleuserregister":"Doctors register",
+        "menu":"The main menu of the system allows doctors to make a new medical record and search for an already registered physician.",
+        "titlemenu":"Main menu",
+        "search":"The search section allows the user to search by ID number.",
+        "titlesearch":"Search",
+        "recommendations":"The recommendations view provides useful tips for people who may have problems logging in.",
+        "titlerecommendations":"Recommendations",
+        "searchresult":"The search results screen displays the data of the previously registered patient.",
+        "titlesearchresult":"Search result",
+        "medicalcontrolrecord":"The medical control section allows you to create a new patient record with the patient's personal data.",
+        "titlemedicalcontrolrecord":"Medical control record",
+        "successful":"This card is displayed when the relative or user has been registered without errors.",
+        "titlesuccessful":"Registration success message",
+        "error":"This card is displayed when the relative or user has been registered with errors.",
+        "titleerror":"Error message when registering"
+    },
+    "notfound": {
+        "back":"Back to home"
+    },
+    "error":{
+        "unsupportedtag":"Your browser does not support the video tag."
+    }
+}

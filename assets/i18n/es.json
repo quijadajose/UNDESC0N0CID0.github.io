@@ -1,0 +1,77 @@
+{
+    "title":{
+        "title":"Portafolio"
+    },
+    "startingpage": {
+        "spanish":"Español",
+        "english":"Inglés",
+        "russian":"Ruso",
+        "navbar1":"Inicio",
+        "navbar2":"Acerca de mí",
+        "navbar3":"Certificados",
+        "navbar4":"Proyectos",
+        "navbar5":"Idiomas",
+        "navbar6":"Habilidades",
+        "skillsdescription":"Las habilidades que se mostraran a continuación son una auto descripción.",
+        "languages":"Lenguajes y herramientas:",
+        "shortdescription":"Hola a todos",
+        "mynameis":"Mi nombre es ",
+        "name":"José D. Quijada ",
+        "description":"soy un joven ingeniero de sistemas, autodidacta, creativo, en busca de retos, con ganas de aprovechar mis conocimientos en desarrollo de software en un rol de programador",
+        "github":"Ver mi github",
+        "telegram":"Contáctame en",
+        "title1":"Certificados obtenidos",
+        "title1lvs":"Lenguaje de señas venezolano",
+        "descriptionlvs":"La aplicación LVS busca enseñar el lenguaje de señas venezolano de una manera divertida y rápida, haciendo énfasis en las expresiones del estado Nueva Esparta.",
+        "title1medicom":"Medicom",
+        "descriptionmedicom":"Medicom es una sencilla aplicación que permite optimizar los expedientes médicos en un centro de salud.",
+        "multiplatform":"Escritorio Multiplataforma",
+        "descriptionmultiplatform":"La aplicación se ha realizado en Java, por lo que puede ejecutarse en Linux, Windows y Mac.",
+        "security":"Cifrado de la contraseña con Bcrypt",
+        "descriptionsecurity":"El cifrado de contraseñas permite que un atacante no vea las contraseñas almacenadas en la base de datos aunque consiga comprometerla.",
+        "sql":"Sentencias preparadas",
+        "descriptionsql":"Una sentencia preparada es una función que se utiliza para ejecutar las mismas sentencias SQL (o similares) repetidamente con gran eficacia y, a su vez, evita los ataques de inyección SQL.",
+        "seedetails":"Haga clic aquí para ver los detalles del proyecto",
+        "backend":"Es la parte o rama del desarrollo de aplicaciones encargada de que toda la lógica de una página funcione correctamente.",
+        "frontend":"Es la parte o rama del desarrollo de aplicaciones encargada de interactuar con los usuarios brindándole una mejor experiencia en UX/UI."
+    },
+    "lvs": {
+        "description":"Descripción",
+        "why":"¿Por qué este proyecto?",
+        "descriptionwhy":"La idea de aprender la lengua de señas siempre me acompañó desde la infancia, porque muchos compañeros de clase la practicaban porque ellos o sus familiares tenían problemas de habla y/o audición, y la lengua de señas me llamaba la atención, pero no había muchos lugares donde la enseñaran. Cuando comencé la universidad me di cuenta de que con los conocimientos que iba a aprender podría hacer algo para facilitar la educación de la lengua de señas venezolana. Pero no fue hasta que una asignatura nos asignó la realización de un sistema innovador y sin dudarlo pensé en hacer ese proyecto que quería hacer desde hace tanto tiempo.",
+        "titletechnologies":"Tecnologías utilizadas:",
+        "titlecollaborators":"Colaboradores:",
+        "collaborators":"En la sección del diccionario de palabras y frases fue facilitado por la unidad educativa de educación especial del estado de Nueva Esparta. Mi mejor amiga Gabriela Marín fue de gran ayuda con los dibujos y colores. Los iconos utilizados en los botones de las lecciones fueron realizados por los diseñadores de la plataforma FlatIcon. Y en el apartado de la creación de la base de datos, creación de las vistas y codificación del sistema estuvo a cargo de mi persona.",
+        "colors":"Colores",
+        "colorpalette":"Paleta de colores",
+        "screen":"Pantallas del sistema",
+        "prototype":"pantallas del prototipo no definitivos"
+    },
+    "medicom": {
+        "censorship":"Las siguientes imágenes fueron censuradas para mantener anónimas a los usuarios del sistema.",
+        "login":"Esta pantalla permite iniciar la sesión en el sistema, registrar un nuevo usuario y mostrar información que ayude a iniciar la sesión.",
+        "titlelogin":"Inicio de sesión",
+        "userregister":"El módulo de registro permite añadir nuevos médicos al sistema.",
+        "titleuserregister":"Registro de médicos",
+        "menu":"El menú principal del sistema permite a los médicos hacer una nueva historia clínica y buscar un médico ya registrado.",
+        "titlemenu":"Menú principal",
+        "search":"La sección de búsqueda permite al usuario buscar por número de identificación.",
+        "titlesearch":"Búsqueda",
+        "recommendations":"La vista de recomendaciones ofrece consejos útiles para las personas que puedan tener problemas para conectarse.",
+        "titlerecommendations":"Recomendaciones",
+        "searchresult":"La pantalla de resultados de la búsqueda muestra los datos del paciente previamente registrado.",
+        "titlesearchresult":"Resultado de la búsqueda",
+        "medicalcontrolrecord":"La sección de control médico permite crear una nueva ficha de paciente con sus datos personales.",
+        "titlemedicalcontrolrecord":"Ficha de control médico",
+        "successful":"Esta tarjeta se muestra cuando el familiar o usuario se ha registrado sin errores.",
+        "titlesuccessful":"Mensaje de éxito del registro",
+        "error":"Esta tarjeta se muestra cuando el familiar o usuario se ha registrado con errores.",
+        "titleerror":"Mensaje de error al registrarse"
+    },
+    "notfound": {
+        "back":"Regresar al inicio"
+    },
+    "error":{
+        "unsupportedtag":"Su navegador no soporta la etiqueta de vídeo."
+    }
+}
