@@ -70,8 +70,5 @@
     },
     "notfound": {
         "back":"Regresar al inicio"
-    },
-    "error":{
-        "unsupportedtag":"Su navegador no soporta la etiqueta de vídeo."
     }
 }

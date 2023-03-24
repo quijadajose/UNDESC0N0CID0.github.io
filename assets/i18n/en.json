@@ -70,8 +70,5 @@
     },
     "notfound": {
         "back":"Back to home"
-    },
-    "error":{
-        "unsupportedtag":"Your browser does not support the video tag."
     }
 }
